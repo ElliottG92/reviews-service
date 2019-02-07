@@ -1,23 +1,18 @@
 # Project Name
 
-> Project description
+> This is a the reviews microservice for a full stack web application modeled after Amazon.com
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
+  - https://github.com/ChampsOfTheSun/vrtobar-service
+  - https://github.com/ChampsOfTheSun/reviews-service
+  - https://github.com/ChampsOfTheSun/makardjian-server
+  - https://github.com/ChampsOfTheSun/jhods16-proxy
+  
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
